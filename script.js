@@ -6,7 +6,6 @@
 
 /////////////////////////////////////////////////
 // Data
-
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
